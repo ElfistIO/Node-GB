@@ -1,0 +1,25 @@
+{
+  "name": "node-gb",
+  "version": "1.0.0",
+  "description": "NodeJS GB Course",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElfistIO/Node-GB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElfistIO/Node-GB/issues"
+  },
+  "homepage": "https://github.com/ElfistIO/Node-GB#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "colors": "^1.4.0"
+  }
+}
